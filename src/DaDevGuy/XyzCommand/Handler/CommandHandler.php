@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace DaDevGuy\XyzCommand\Manager;
+namespace DaDevGuy\XyzCommand\Handler;
 
 use DaDevGuy\XyzCommand\Commands\XyzCommand;
 use pocketmine\Server;
