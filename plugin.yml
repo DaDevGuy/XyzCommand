@@ -1,0 +1,5 @@
+name: CoordsCommand
+author: DaDevGuy
+main: DaDevGuy/XyzCommand/Main
+version: 1.0.0
+api: [4.0.0]
