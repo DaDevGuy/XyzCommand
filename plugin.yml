@@ -1,4 +1,4 @@
-name: CoordsCommand
+name: XyzCommand
 author: DaDevGuy
 main: DaDevGuy/XyzCommand/Main
 version: 1.0.0
